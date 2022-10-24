@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+[![Setting Up the trivia App](https://img.youtube.com/vi/rBvipNgGqow/0.jpg)](https://youtu.be/rBvipNgGqow)
+
 ### Installing Dependencies
 
 #### Python 3.7
