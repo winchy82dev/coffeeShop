@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-[![Setting Up the trivia App](https://img.youtube.com/vi/rBvipNgGqow/0.jpg)](https://youtu.be/rBvipNgGqow)
+[![Setting Up the CoffeeShop App](https://img.youtube.com/vi/rBvipNgGqow/0.jpg)](https://youtu.be/rBvipNgGqow)
 
 ### Installing Dependencies
 
